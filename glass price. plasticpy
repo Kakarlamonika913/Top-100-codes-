@@ -1,0 +1,2 @@
+x,y=map(int,input().split())
+print('METAL' if 2*x>=y else 'PLASTIC')
